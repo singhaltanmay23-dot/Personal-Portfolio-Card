@@ -5,13 +5,13 @@ A responsive, interactive personal profile card built with semantic HTML5, moder
 
 -----------
 
-##📌 Project Overview
+## Project Overview
 
 This repository hosts a personal portfolio card developed for Tanmay Singhal, a first-year Computer Science and Engineering (CSE) student at SRM. The project emphasizes clean code structure, modern glassmorphism aesthetics, fluid micro-interactions, and accessibility across devices.
 
 ---------
 
-##✨ Features
+## Features
 
 1. Interactive 3D Tilt Effect: Perspective tilt driven by cursor coordinates on desktop devices.
 
@@ -49,7 +49,7 @@ This repository hosts a personal portfolio card developed for Tanmay Singhal, a 
 
 --------
 
-##🚀 Getting Started
+## Getting Started
 
 1. Local Setup
 
@@ -71,7 +71,7 @@ cd portfolio-card
 
 ---------
 
-##🌐 Deployment
+## Deployment
 
 1. This static project can be deployed instantly using GitHub Pages or Vercel:
 
@@ -85,13 +85,11 @@ cd portfolio-card
 
 6. Under Build and deployment > Branch, select main (or master) and folder / (root).
 
-7. Click Save. Your site will be published at:
-
-https://<your-username>.github.io/<repository-name>/
+7. Click Save. Your site will be published.
 
 --------
 
-##👤 Author
+## Author
 
 Tanmay Singhal
 
