@@ -95,8 +95,7 @@ Tanmay Singhal
 
 First Year CSE Student • SRM Institute of Science and Technology
 
-GitHub: singhaltanmay23-dot
-
-LinkedIn: Tanmay Singhal
-
+GitHub: https://github.com/singhaltanmay23-dot
+LinkedIn: https://www.linkedin.com/in/tanmay-singhal-9536bb295/
+Instagram: https://www.instagram.com/tanmaysinghal7318/
 Email: singhal.tanmay23@gmail.com
