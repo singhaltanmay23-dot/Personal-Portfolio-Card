@@ -51,41 +51,41 @@ This repository hosts a personal portfolio card developed for Tanmay Singhal, a 
 
 ##🚀 Getting Started
 
-1.Local Setup
+1. Local Setup
 
 Clone the repository:
 
 git clone https://github.com/singhaltanmay23-dot/portfolio-card.git
 
 
-2.Navigate into the project directory:
+2. Navigate into the project directory:
 
 cd portfolio-card
 
 
-3.Open the project:
+3. Open the project:
 
-Double-click index.html to open it directly in any modern web browser.
+   *Double-click index.html to open it directly in any modern web browser.
 
-Alternatively, use an extension like VS Code's Live Server to preview changes in real time.
+   *Alternatively, use an extension like VS Code's Live Server to preview changes in real time.
 
 ---------
 
 ##🌐 Deployment
 
-This static project can be deployed instantly using GitHub Pages or Vercel:
+1. This static project can be deployed instantly using GitHub Pages or Vercel:
 
-Deploying to GitHub Pages
+2. Deploying to GitHub Pages
 
-Push your code to a repository on your GitHub account.
+3. Push your code to a repository on your GitHub account.
 
-Navigate to your repository's Settings tab.
+4. Navigate to your repository's Settings tab.
 
-In the left sidebar, click Pages.
+5. In the left sidebar, click Pages.
 
-Under Build and deployment > Branch, select main (or master) and folder / (root).
+6. Under Build and deployment > Branch, select main (or master) and folder / (root).
 
-Click Save. Your site will be published at:
+7. Click Save. Your site will be published at:
 
 https://<your-username>.github.io/<repository-name>/
 
