@@ -1,72 +1,77 @@
 # Personal-Portfolio-Card
 A responsive, interactive personal profile card built with semantic HTML5, modern CSS3 styling (utilizing Tailwind CSS), and vanilla JavaScript. Designed to present a concise introduction, core skills, hobbies, featured projects, and direct social links with interactive visual effects.
 
-📌 Project Overview
+
+
+-----------
+
+##📌 Project Overview
 
 This repository hosts a personal portfolio card developed for Tanmay Singhal, a first-year Computer Science and Engineering (CSE) student at SRM. The project emphasizes clean code structure, modern glassmorphism aesthetics, fluid micro-interactions, and accessibility across devices.
 
-✨ Features
+---------
 
-Interactive 3D Tilt Effect: Perspective tilt driven by cursor coordinates on desktop devices.
+##✨ Features
 
-Glassmorphism UI: Backdrop blur, subtle linear gradients, and glowing accents.
+1. Interactive 3D Tilt Effect: Perspective tilt driven by cursor coordinates on desktop devices.
 
-Flippable Dossier Card: An interactive flip mechanism revealing extended academic details and interests.
+2. Glassmorphism UI: Backdrop blur, subtle linear gradients, and glowing accents.
 
-Dynamic Particle Canvas: Lightweight, vanilla JavaScript ambient background particles.
+3. Flippable Dossier Card: An interactive flip mechanism revealing extended academic details and interests.
 
-Multi-Theme Support: Instant toggle between Dark Indigo, Cyber Cyan, and Clean Light color themes.
+4. Dynamic Particle Canvas: Lightweight, vanilla JavaScript ambient background particles.
 
-Icon-Only Social Row: Direct links to GitHub, LinkedIn, Instagram, and Email via clean SVG icons with animated tooltips.
+5. Multi-Theme Support: Instant toggle between Dark Indigo, Cyber Cyan, and Clean Light color themes.
 
-Dedicated Projects Call-to-Action: A direct button navigating to completed GitHub repositories.
+6. Icon-Only Social Row: Direct links to GitHub, LinkedIn, Instagram, and Email via clean SVG icons with animated tooltips.
 
-Fully Responsive: Optimized for seamless viewing on mobile phones, tablets, and desktop browsers.
+7. Dedicated Projects Call-to-Action: A direct button navigating to completed GitHub repositories.
 
-🛠️ Tech Stack & Skills Demonstrated
+8. Fully Responsive: Optimized for seamless viewing on mobile phones, tablets, and desktop browsers.
 
-HTML5: Semantic layout, accessible links, and structured metadata.
+---------
 
-CSS3 / Tailwind CSS: Responsive Flexbox and Grid layouts, CSS variables, keyframe animations, and 3D transforms.
+##🛠️ Tech Stack & Skills Demonstrated
 
-JavaScript (ES6+):
+1. HTML5: Semantic layout, accessible links, and structured metadata.
 
-Event listeners for cursor coordinates and perspective tilt.
+2. CSS3 / Tailwind CSS: Responsive Flexbox and Grid layouts, CSS variables, keyframe animations, and 3D transforms.
 
-Interactive theme switching and DOM manipulation.
+3. JavaScript (ES6+):
 
-HTML5 Canvas background particle system.
+      *Event listeners for cursor coordinates and perspective tilt.
 
-Client-side image upload and preview capability.
+      *Interactive theme switching and DOM manipulation.
 
-📂 Project Structure
+      *HTML5 Canvas background particle system.
 
-├── index.html        # Main single-file portfolio webpage
-├── DSC_9471.jpg      # Profile avatar image
-└── README.md         # Project documentation
+      *Client-side image upload and preview capability.
 
+--------
 
-🚀 Getting Started
+##🚀 Getting Started
 
-Local Setup
+1.Local Setup
 
 Clone the repository:
 
 git clone https://github.com/singhaltanmay23-dot/portfolio-card.git
 
 
-Navigate into the project directory:
+2.Navigate into the project directory:
 
 cd portfolio-card
 
 
-Open the project:
+3.Open the project:
 
 Double-click index.html to open it directly in any modern web browser.
 
 Alternatively, use an extension like VS Code's Live Server to preview changes in real time.
 
-🌐 Deployment
+---------
+
+##🌐 Deployment
 
 This static project can be deployed instantly using GitHub Pages or Vercel:
 
@@ -84,7 +89,9 @@ Click Save. Your site will be published at:
 
 https://<your-username>.github.io/<repository-name>/
 
-👤 Author
+--------
+
+##👤 Author
 
 Tanmay Singhal
 
@@ -95,7 +102,3 @@ GitHub: singhaltanmay23-dot
 LinkedIn: Tanmay Singhal
 
 Email: singhal.tanmay23@gmail.com
-
-📄 License
-
-This project is open source and available under the MIT License.
