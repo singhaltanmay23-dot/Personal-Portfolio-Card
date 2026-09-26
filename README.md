@@ -1,2 +1,101 @@
 # Personal-Portfolio-Card
 A responsive, interactive personal profile card built with semantic HTML5, modern CSS3 styling (utilizing Tailwind CSS), and vanilla JavaScript. Designed to present a concise introduction, core skills, hobbies, featured projects, and direct social links with interactive visual effects.
+
+📌 Project Overview
+
+This repository hosts a personal portfolio card developed for Tanmay Singhal, a first-year Computer Science and Engineering (CSE) student at SRM. The project emphasizes clean code structure, modern glassmorphism aesthetics, fluid micro-interactions, and accessibility across devices.
+
+✨ Features
+
+Interactive 3D Tilt Effect: Perspective tilt driven by cursor coordinates on desktop devices.
+
+Glassmorphism UI: Backdrop blur, subtle linear gradients, and glowing accents.
+
+Flippable Dossier Card: An interactive flip mechanism revealing extended academic details and interests.
+
+Dynamic Particle Canvas: Lightweight, vanilla JavaScript ambient background particles.
+
+Multi-Theme Support: Instant toggle between Dark Indigo, Cyber Cyan, and Clean Light color themes.
+
+Icon-Only Social Row: Direct links to GitHub, LinkedIn, Instagram, and Email via clean SVG icons with animated tooltips.
+
+Dedicated Projects Call-to-Action: A direct button navigating to completed GitHub repositories.
+
+Fully Responsive: Optimized for seamless viewing on mobile phones, tablets, and desktop browsers.
+
+🛠️ Tech Stack & Skills Demonstrated
+
+HTML5: Semantic layout, accessible links, and structured metadata.
+
+CSS3 / Tailwind CSS: Responsive Flexbox and Grid layouts, CSS variables, keyframe animations, and 3D transforms.
+
+JavaScript (ES6+):
+
+Event listeners for cursor coordinates and perspective tilt.
+
+Interactive theme switching and DOM manipulation.
+
+HTML5 Canvas background particle system.
+
+Client-side image upload and preview capability.
+
+📂 Project Structure
+
+├── index.html        # Main single-file portfolio webpage
+├── DSC_9471.jpg      # Profile avatar image
+└── README.md         # Project documentation
+
+
+🚀 Getting Started
+
+Local Setup
+
+Clone the repository:
+
+git clone https://github.com/singhaltanmay23-dot/portfolio-card.git
+
+
+Navigate into the project directory:
+
+cd portfolio-card
+
+
+Open the project:
+
+Double-click index.html to open it directly in any modern web browser.
+
+Alternatively, use an extension like VS Code's Live Server to preview changes in real time.
+
+🌐 Deployment
+
+This static project can be deployed instantly using GitHub Pages or Vercel:
+
+Deploying to GitHub Pages
+
+Push your code to a repository on your GitHub account.
+
+Navigate to your repository's Settings tab.
+
+In the left sidebar, click Pages.
+
+Under Build and deployment > Branch, select main (or master) and folder / (root).
+
+Click Save. Your site will be published at:
+
+https://<your-username>.github.io/<repository-name>/
+
+👤 Author
+
+Tanmay Singhal
+
+First Year CSE Student • SRM Institute of Science and Technology
+
+GitHub: singhaltanmay23-dot
+
+LinkedIn: Tanmay Singhal
+
+Email: singhal.tanmay23@gmail.com
+
+📄 License
+
+This project is open source and available under the MIT License.
